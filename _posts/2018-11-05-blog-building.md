@@ -33,5 +33,6 @@ tags:
         git add .
         git commit "提交"
         git push -u origin master
-```   
-5. 自己踩的坑： 1. 居然开了ssr，再去访问本机localhost，死活访问不上，所以去代理规则把这些去掉了。  
+```
+5. 自己踩的坑： 
+    1. 居然开了ssr，再去访问本机localhost，死活访问不上，所以去代理规则把这些去掉了。  
