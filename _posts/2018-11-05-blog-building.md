@@ -37,4 +37,8 @@ tags:
 
    
 5. 自己踩的坑： 
-    1. 居然开了ssr，再去访问本机localhost，死活访问不上，所以去代理规则把这些去掉了。  
+    1. 居然开了ssr，再去访问本机localhost，死活访问不上，所以去代理规则把这些去掉了。
+    2. 补充一点，每次git push 都要输入账户密码，所以可以执行
+```
+                      git config --global credential.helper store
+```  
