@@ -31,8 +31,10 @@ tags:
 ```
         git status#查看状态
         git add .
-        git commit "提交"
+        git commit "导入"
         git push -u origin master
 ```
+
+   
 5. 自己踩的坑： 
     1. 居然开了ssr，再去访问本机localhost，死活访问不上，所以去代理规则把这些去掉了。  
