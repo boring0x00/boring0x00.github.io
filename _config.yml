@@ -1,5 +1,5 @@
 # Site settings
-title: Boring Blog
+title: Borin9 Blog
 SEOTitle: Boring的博客 | Boring Blog
 header-img: img/claudio-testa-306745-unsplash.jpg
 email: huxpro@gmail.com
@@ -98,38 +98,23 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
+{
     #     title: "Su",
     #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
+    # }, 
+        title: "xing",
+        href: "http://blog.xingssr.cn"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "rep",
+        href: "https://repw.github.io/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "threst",
+        href: "https://threst.github.io/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "nu11hex",
+        href: "https://nu11hex.github.io/"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "f1sh",
+        href: "http://f1sh.site/"
     }
 ]
