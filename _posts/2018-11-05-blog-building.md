@@ -31,7 +31,7 @@ tags:
 ```
         git status#查看状态
         git add .
-        git commit "导入"
+        git commit -m "导入"
         git push -u origin master
 ```
 
